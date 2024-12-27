@@ -56,11 +56,13 @@ Assignment 5:
 - Model diagnostics checking with qq-plots, residual plots, and cooks distance plots.
 - Data transformations as well as modle refitting.
 - Interpretation of R-squared values.
+- Grade recieved was 100%
 
 Assignment 6:  
 - Fitting linear models.
 - Devaince test to determine variable significance to the model.
 - Variable Confidence intervals.
 - Goodness of fit test.
-- Deviance residual plots.  
+- Deviance residual plots.
+- Grade recieved was 100%
 
