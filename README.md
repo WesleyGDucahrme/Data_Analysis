@@ -1,4 +1,4 @@
-# Data_Analysis
+# Data_Analysis in R
 Course work for STAT 359 Data Analysis
 
 Course objectives and topics
