@@ -22,18 +22,18 @@ Topics to be Covered:
 Course was a projects based course where everything including exams, was done in Rstudio using R markdown.
 
 Methods covered in each assignment  
-Assignment 1:  
+Project 1:  
 - Performed inferential statistics.  
 - Designed boxplots and histograms.
 - Grade recieved was 100%.  
 
-Assignment 2: 
+Project 2: 
 - Comparing different distibutions with histograms.  
 - Testing for skewness and kurtosis in a population based on sample data using the bootstrap method.  
 - Using the two sample T-test to test for equivalence in population means.  
 - Grade recieved was 95%. (On question 3 forgot to use a qq-plot to check for normality)  
 
-Assignment 3:  
+Project 3:  
 - Equal variance testing.  
 - Wilcox Ranked Sum test.  
 - Graphical summaries such as bar-plots with error bars.  
@@ -41,7 +41,7 @@ Assignment 3:
 - qq-plots to judge the normality of the data.
 - Grade recieved was 100%
 
-Assignment 4:  
+Project 4:  
 - Contigency tables.  
 - Chi-squared test for association between variables.  
 - Comparing observed and expected values.  
@@ -50,7 +50,7 @@ Assignment 4:
 - Non-linear regression.  
 - Grade recieved was 95%. (On question 2 I calculated the wrong chi-squared value. The correct value is 16.14)  
 
-Assignment 5:  
+Project 5:  
 - Linear regression analysis.  
 - Model fitting and model comparissons between full and reduced models.  
 - Model diagnostics checking with qq-plots, residual plots, and cooks distance plots.
@@ -58,7 +58,7 @@ Assignment 5:
 - Interpretation of R-squared values.
 - Grade recieved was 100%
 
-Assignment 6:  
+Project 6:  
 - Fitting linear models.
 - Devaince test to determine variable significance to the model.
 - Variable Confidence intervals.
